@@ -1,0 +1,1612 @@
+[
+    {
+      "question_id": 0,
+      "question": "The Battle of Plassey was fought in",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "1757"
+        },
+        {
+          "choice_id": 2,
+          "choice": "1782"
+        },
+        {
+          "choice_id": 3,
+          "choice": "1748"
+        },
+        {
+          "choice_id": 4,
+          "choice": "1764"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 1,
+      "question": "The territory of Porus who offered strong resistance to Alexander was situated between the rivers of",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Sutlej and Beas"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Jhelum and Chenab"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Ravi and Chenab"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Ganga and Yamuna"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 2,
+      "question": "Under Akbar, the Mir Bakshi was required to look after",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "military affairs"
+        },
+        {
+          "choice_id": 2,
+          "choice": "the state treasury"
+        },
+        {
+          "choice_id": 3,
+          "choice": "the royal household"
+        },
+        {
+          "choice_id": 4,
+          "choice": "the land revenue system"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 3,
+      "question": "Tripitakas are sacred books of",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Buddhists"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Hindus"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Jains"
+        },
+        {
+          "choice_id": 4,
+          "choice": "None of the above"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 4,
+      "question": "The trident-shaped symbol of Buddhism does not represent",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Nirvana"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Sangha"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Buddha"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Dhamma"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 5,
+      "question": "The theory of economic drain of India during British imperialism was propounded by",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Jawaharlal Nehru"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Dadabhai Naoroji"
+        },
+        {
+          "choice_id": 3,
+          "choice": "R.C. Dutt"
+        },
+        {
+          "choice_id": 4,
+          "choice": "M.K. Gandhi"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 6,
+      "question": "The treaty of Srirangapatna was signed between Tipu Sultan and",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Robert Clive"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Cornwallis"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Dalhousie"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Warren Hastings"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 7,
+      "question": "The system of competitive examination for civil service was accepted in principle in the year",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "1833"
+        },
+        {
+          "choice_id": 2,
+          "choice": "1853"
+        },
+        {
+          "choice_id": 3,
+          "choice": "1858"
+        },
+        {
+          "choice_id": 4,
+          "choice": "1882"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 8,
+      "question": "Through which one of the following, the king exercised his control over villages in the Vijayanagar Empire?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Dannayaka"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Sumanta"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Nayaka"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Mahanayakacharya"
+        }
+      ],
+      "answer": 4
+    },
+    {
+      "question_id": 9,
+      "question": "The Vijayanagara ruler, Kirshnadev Raya\"s work Amuktamalyada, was in",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Telugu"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Sanskrit"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Tamil"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Kannada"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 10,
+      "question": "Under an agreement with which of the following countries did Subhas Chandra Bose organize the Indian soldiers, taken as prisoners by the Axis Powers, into the Azad Hind Fauj?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "China"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Germany"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Italy"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Japan"
+        }
+      ],
+      "answer": 4
+    },
+    {
+      "question_id": 11,
+      "question": "We hear of two envoys being sent to the Roman kings, one in 27-28 AD to the court of Augustus and the other in 110-20 AD to the court of",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Cartius"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Trajan"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Nero"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Brutus"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 12,
+      "question": "The use of Kharoshti in ancient Indian architecture is the result of India\"s contact with",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Central Asia"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Iran"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Greece"
+        },
+        {
+          "choice_id": 4,
+          "choice": "China"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 13,
+      "question": "Vaikhanasa the five-fold conception of Vishnu consists of  brahmanpurushaprakritisatyaachyutaaniruddha",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "I, II, III, IV and V"
+        },
+        {
+          "choice_id": 2,
+          "choice": "II, III, IV, V and VI"
+        },
+        {
+          "choice_id": 3,
+          "choice": "I, II, IV, V and VI"
+        },
+        {
+          "choice_id": 4,
+          "choice": "I, III, IV, V and VI"
+        }
+      ],
+      "answer": 4
+    },
+    {
+      "question_id": 14,
+      "question": "The troops raised by the emperor but not paid directly the state and place under the charge of mansabadars were know as",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Walashahi"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Barawardi"
+        },
+        {
+          "choice_id": 3,
+          "choice": "JCumaki"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Dakhili"
+        }
+      ],
+      "answer": 4
+    },
+    {
+      "question_id": 15,
+      "question": "The treaty of Mangalore was signed between",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "the English East India Company and Haidar Ali"
+        },
+        {
+          "choice_id": 2,
+          "choice": "the English East India Company and Tipu Sultan"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Haidar Ali and the Zamorin of Calicut"
+        },
+        {
+          "choice_id": 4,
+          "choice": "the French East India Company and Tipu Sultan"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 16,
+      "question": "To conquer and annex Peshawar and Punjab, Mahmud of Ghazni defeated",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Ghurids"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Arabs"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Karkotakas"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Hindushahis"
+        }
+      ],
+      "answer": 4
+    },
+    {
+      "question_id": 17,
+      "question": "To which professions earlier leaders who struggled for freedom of India mainly belonged?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Lawyers"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Teachers"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Journalists"
+        },
+        {
+          "choice_id": 4,
+          "choice": "All of the above"
+        }
+      ],
+      "answer": 4
+    },
+    {
+      "question_id": 18,
+      "question": "The victories of Karikala are well portrayed in",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Palamoli"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Aruvanad"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Pattinappalai"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Padirrupattu"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 19,
+      "question": "Todar Mal was associated with",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "music"
+        },
+        {
+          "choice_id": 2,
+          "choice": "literature"
+        },
+        {
+          "choice_id": 3,
+          "choice": "finance"
+        },
+        {
+          "choice_id": 4,
+          "choice": "law"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 20,
+      "question": "The title of \"Viceroy\" was added to the office of the Governor-General of India for the first time in",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "1848 AD"
+        },
+        {
+          "choice_id": 2,
+          "choice": "1856 AD"
+        },
+        {
+          "choice_id": 3,
+          "choice": "1858 AD"
+        },
+        {
+          "choice_id": 4,
+          "choice": "1862 AD"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 21,
+      "question": "To which of the following dynasties did King Bhoja, a great patron of literature and art, belong?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Karkota"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Utpala"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Paramara"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Gurjara Pratihara"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 22,
+      "question": "Vikramaditya, a king of Ujjain, started the Vikrama samvat in 58 BC in commemoration of his victory over",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Indo-Greeks"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Sakas"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Parthinas"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Kushanas"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 23,
+      "question": "Two of the great Mughals wrote their own memories. There were",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Babar and Humayun"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Humayun and Jahangir"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Babar and Jahangir"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Jahangir and Shahjahan"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 24,
+      "question": "To which king belongs the Lion capital at Sarnath?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Chandragupta"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Ashoka"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Kanishka"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Harsha"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 25,
+      "question": "The use of spinning wheel (Charkha) became common during the",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "9th Century AD"
+        },
+        {
+          "choice_id": 2,
+          "choice": "10th Century AD"
+        },
+        {
+          "choice_id": 3,
+          "choice": "12th Century AD"
+        },
+        {
+          "choice_id": 4,
+          "choice": "14th Century AD"
+        }
+      ],
+      "answer": 4
+    },
+    {
+      "question_id": 26,
+      "question": "The language of discourses of Gautama Buddha was",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Bhojpuri"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Magadhi"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Pali"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Sanskrit"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 27,
+      "question": "There were widespread risings against the British in the 1820s. Which one of the following did not revolt in the 1820s?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Santhals"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Ahoms"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Pagal Panthis"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Ramosi"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 28,
+      "question": "Velu Thampi led a revolt against the British in state of",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Travancore"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Baroda"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Hyderabad"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Mysore"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 29,
+      "question": "Under the Mountbatten Plan of 1947 the people of ___ were given the right to decide through a plebiscite whether they wished to join Pakistan or India.",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Assam"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Punjab"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Bengal"
+        },
+        {
+          "choice_id": 4,
+          "choice": "N.W.F.P and the Sylhet district of Assam"
+        }
+      ],
+      "answer": 4
+    },
+    {
+      "question_id": 30,
+      "question": "Three major  powers that emerged in southern India in the 7th century AD were  CherasCholasChalukyasPallavasPandyas",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "I, II, V"
+        },
+        {
+          "choice_id": 2,
+          "choice": "II, III, IV"
+        },
+        {
+          "choice_id": 3,
+          "choice": "III, IV, V"
+        },
+        {
+          "choice_id": 4,
+          "choice": "I, II, IV"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 31,
+      "question": "The term \"Yavanapriya\" mentioned in ancient Sanskrit texts denoted",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "ivory"
+        },
+        {
+          "choice_id": 2,
+          "choice": "pepper"
+        },
+        {
+          "choice_id": 3,
+          "choice": "a fine variety of Indian muslin"
+        },
+        {
+          "choice_id": 4,
+          "choice": "damsels sent to the Greek court for dance performance"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 32,
+      "question": "The Timariots Governors and the Revenue Contractors, on their part reason in this manner: \"Why should the neglected state of this land create uneasiness in our minds and why should we expend our money and time to render it fruitful? We may be deprived of it in a single moment, and our exertions would benefit neither ourselves nor our children.\" This statement was made by",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Monserrate"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Tavernier"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Manrique"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Bernier"
+        }
+      ],
+      "answer": 4
+    },
+    {
+      "question_id": 33,
+      "question": "The ultimate ownership of land during the post-Gupta period lay with",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "the cultivator"
+        },
+        {
+          "choice_id": 2,
+          "choice": "the village community"
+        },
+        {
+          "choice_id": 3,
+          "choice": "the king"
+        },
+        {
+          "choice_id": 4,
+          "choice": "the joint family"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 34,
+      "question": "To which of the republic of Buddha belong?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Licchavis"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Sakyas"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Mallas"
+        },
+        {
+          "choice_id": 4,
+          "choice": "None of the above"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 35,
+      "question": "There was a sharp class division at Harappa and Mohen-jodaro. This is clear from the",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Indus seals excavated"
+        },
+        {
+          "choice_id": 2,
+          "choice": "religious beliefs of the Harappans"
+        },
+        {
+          "choice_id": 3,
+          "choice": "tools and implements used by the Harappans"
+        },
+        {
+          "choice_id": 4,
+          "choice": "different types of dwellings excavated"
+        }
+      ],
+      "answer": 4
+    },
+    {
+      "question_id": 36,
+      "question": "The title given by the British Government to Mahatma Gandhi which he surrendered during the non-cooperation movement was",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Hind Keasri"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Kaiser-e-Hind"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Rai Bahadur"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Rt. Honorable"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 37,
+      "question": "Tipu sultan was the ruler of",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Hyderabad"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Madurai"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Mysore"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Vijayanagar"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 38,
+      "question": "The term yavanika meant",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "foreign goods"
+        },
+        {
+          "choice_id": 2,
+          "choice": "dancer"
+        },
+        {
+          "choice_id": 3,
+          "choice": "curtain"
+        },
+        {
+          "choice_id": 4,
+          "choice": "theatre"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 39,
+      "question": "The term Khalisa in Mughal administration signified the",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "entire Imperial establishment"
+        },
+        {
+          "choice_id": 2,
+          "choice": "land owned b the emperor himself"
+        },
+        {
+          "choice_id": 3,
+          "choice": "religious land grants"
+        },
+        {
+          "choice_id": 4,
+          "choice": "land from where revenue was collected for the Imperial Treasury"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 40,
+      "question": "Visakhadatta sketches the event after the death of Samudragupta in his work",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Mudrarakasam"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Devi Chand Guptam"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Mrichekakatika"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Malavikagnimitra"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 41,
+      "question": "The system of Dual Government during the latter half of the 18th century AD is associated with the name of",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Clive"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Comwallis"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Waren Hastings"
+        },
+        {
+          "choice_id": 4,
+          "choice": "William Bentinck"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 42,
+      "question": "\"The Vedas contain all the truth was interpreted by",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Swami Vivekananda"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Swami Dayananda"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Raja Rammohan Roy"
+        },
+        {
+          "choice_id": 4,
+          "choice": "None of the above"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 43,
+      "question": "The term samanta, meaning a feudatory from the sixth century AD, originally meant  a",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "slave"
+        },
+        {
+          "choice_id": 2,
+          "choice": "cultivator"
+        },
+        {
+          "choice_id": 3,
+          "choice": "neighbor"
+        },
+        {
+          "choice_id": 4,
+          "choice": "foreigner"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 44,
+      "question": "To evolve a peaceful settlement of the conflict between India and China, which of the following non-aligned Afro-Asian nations participated in a conference held in December 1962?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Burma (now Myanmar), Combodia, Indonesia and UAR"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Burma, Sri Lanka, Combodia and Indonesia"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Burma, Indonesia, Ghana and Sri Lanka"
+        },
+        {
+          "choice_id": 4,
+          "choice": "All of the above"
+        }
+      ],
+      "answer": 4
+    },
+    {
+      "question_id": 45,
+      "question": "The text of the document called Mahzar, by which Akbar assumed the role of supreme arbiter in the matters of religion is found in",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Nizamuddin\"s Tabaqat-I-Akbari"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Arif Quandahari\"s Tarikh-I-Alfi"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Abul Fazl\"s Akbarnama"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Badauni\"s Muntakahab-ut-Tawarikh"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 46,
+      "question": "Tulsidas, the author of Ramcharitmanas, was a contemporary of which of the following rulers?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Akbar"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Humayun"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Shahjahan"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Sher Shah Suri"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 47,
+      "question": "To meet the educational needs of the people, the Madarasa-I Nasiri was built in the region of",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Qutub-ud-din Aibak"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Iltutmish"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Ruknuddin Firoz Shah"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Jalal-id-din Khilji"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 48,
+      "question": "The weekly Commonweal was founded by",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Annie Besant"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Bipan Chandra Pal"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Bal Gangadhar Tilak"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Sarojini Naidu"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 49,
+      "question": "Ustad Mansur was a famous painter in the region of",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Shajahan"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Akbar"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Humayun"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Jahangir"
+        }
+      ],
+      "answer": 4
+    },
+    {
+      "question_id": 50,
+      "question": "The Vedic deity Indra was the Goddess of",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "wind"
+        },
+        {
+          "choice_id": 2,
+          "choice": "eternity"
+        },
+        {
+          "choice_id": 3,
+          "choice": "rain and thunder"
+        },
+        {
+          "choice_id": 4,
+          "choice": "fire"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 51,
+      "question": "Tolkappiyam is associated with the",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "first Sangam period"
+        },
+        {
+          "choice_id": 2,
+          "choice": "second Sangam period"
+        },
+        {
+          "choice_id": 3,
+          "choice": "third Sangam period"
+        },
+        {
+          "choice_id": 4,
+          "choice": "post-third Sangam period"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 52,
+      "question": "Pulakesin II was the most famous ruler of",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Chalukyas"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Cholas"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Pallavas"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Satavahanas"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 53,
+      "question": "The term Brahmadeya occurs for the first time in",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "early Vedic texts"
+        },
+        {
+          "choice_id": 2,
+          "choice": "early Buddhist texts"
+        },
+        {
+          "choice_id": 3,
+          "choice": "pre-Gupta inscriptions"
+        },
+        {
+          "choice_id": 4,
+          "choice": "post-Gupta inscriptions"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 54,
+      "question": "Under whose leadership was the all India Muslim League set up?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Mohammed Ali Jinnah"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Sayyid Ahmed Khan"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Aga Khan"
+        },
+        {
+          "choice_id": 4,
+          "choice": "All of the above"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 55,
+      "question": "Though Ashoka had many sons, the inscriptions mentioned only one who is not mentioned in any other source. He is",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Kunala"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Tivara"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Mahendra"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Jalauka"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 56,
+      "question": "We can know about early vedic period from",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "archaeological  excavations"
+        },
+        {
+          "choice_id": 2,
+          "choice": "the Rig Veda"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Jatak Katha"
+        },
+        {
+          "choice_id": 4,
+          "choice": "contemporary culture"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 57,
+      "question": "The Upanishads are",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "a source of Hindu philosophy"
+        },
+        {
+          "choice_id": 2,
+          "choice": "books of ancient Hindu laws"
+        },
+        {
+          "choice_id": 3,
+          "choice": "books on social behavior of man"
+        },
+        {
+          "choice_id": 4,
+          "choice": "prayers to God"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 58,
+      "question": "Universities in the Presidency towns in India were established in",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "1857"
+        },
+        {
+          "choice_id": 2,
+          "choice": "1858"
+        },
+        {
+          "choice_id": 3,
+          "choice": "1900"
+        },
+        {
+          "choice_id": 4,
+          "choice": "1909"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 59,
+      "question": "The Vijayanagara king who employed skilled archers of the Turkish clan and raised the fighting capacity of his bowmen was",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Bukka I"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Devaraya I"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Krishnadevaraya"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Ramaraya"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 60,
+      "question": "Under the Guptas in eastern India, there was probably an intermediate level of administration between vishayas (districts) and villages. Identify it.",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Bhukit"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Pradesa"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Vithi"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Ahara"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 61,
+      "question": "The two principles monuments of Alaud-din Khilji\"s reign - the Jama at Kana Masjid and Alai Darwaza - were constructed at",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Agra"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Delhi"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Dhar"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Gulbarga"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 62,
+      "question": "The term Nirgrantha is associated with",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Ajivikas"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Charvakas"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Jainas"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Pasupatas"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 63,
+      "question": "The Kalinga was fought in",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "321 BC"
+        },
+        {
+          "choice_id": 2,
+          "choice": "301 BC"
+        },
+        {
+          "choice_id": 3,
+          "choice": "261 BC"
+        },
+        {
+          "choice_id": 4,
+          "choice": "241 BC"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 64,
+      "question": "Under the Government of India, Provincial Legislatures consisted of two chambers, except in the case of",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Assam"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Bihar"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Madras"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Punjab"
+        }
+      ],
+      "answer": 4
+    },
+    {
+      "question_id": 65,
+      "question": "The Venetian traveler who travelled with his wife and reached Vijayanagar around 1420 was",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Athanasius Nikitin"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Nicolo de Conti"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Ibn Batuta"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Ferishta"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 66,
+      "question": "The year 788 AD was a good one for Hinduism. Why?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Shankracharya was born that year."
+        },
+        {
+          "choice_id": 2,
+          "choice": "Harsha Vardhana, the last Buddhist king, died."
+        },
+        {
+          "choice_id": 3,
+          "choice": "Samudragupta converted to Hinduism."
+        },
+        {
+          "choice_id": 4,
+          "choice": "All Muslim invaders were defeated."
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 67,
+      "question": "The Uprising of 1857 was described as the first Indian war of Independence by",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "S.N. Sen"
+        },
+        {
+          "choice_id": 2,
+          "choice": "R.C. Mazumdar"
+        },
+        {
+          "choice_id": 3,
+          "choice": "B.G. Tilak"
+        },
+        {
+          "choice_id": 4,
+          "choice": "V.D. Savakar"
+        }
+      ],
+      "answer": 4
+    },
+    {
+      "question_id": 68,
+      "question": "The twenty-third Jaina teacher, Parsva, the immediate predecessor of Mahavira enjoined on his disciples four great vows. To these Mahavira addes which of the followings as the fifth vow?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Abstention from stealing"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Non-injury"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Brahmacharya or continence"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Non-attachment"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 69,
+      "question": "The Turko-Afghan rule in India lasted for about",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "two centuries"
+        },
+        {
+          "choice_id": 2,
+          "choice": "three centuries"
+        },
+        {
+          "choice_id": 3,
+          "choice": "four centuries"
+        },
+        {
+          "choice_id": 4,
+          "choice": "a little over one century"
+        }
+      ],
+      "answer": 2
+    }
+  ]

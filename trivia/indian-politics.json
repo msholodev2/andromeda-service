@@ -1,0 +1,1750 @@
+[
+    {
+      "question_id": 0,
+      "question": "The Parliament of India cannot be regarded as a sovereign body because",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "it can legislate only on subjects entrusted to the Centre by the Constitution"
+        },
+        {
+          "choice_id": 2,
+          "choice": "it has to operate within the limits prescribed by the Constitution"
+        },
+        {
+          "choice_id": 3,
+          "choice": "the Supreme Court can declare laws passed by parliament as unconstitutional if they contravene the provisions of the Constitution"
+        },
+        {
+          "choice_id": 4,
+          "choice": "All of the above"
+        }
+      ],
+      "answer": 4
+    },
+    {
+      "question_id": 1,
+      "question": "The name of the Laccadive, Minicoy and Amindivi islands was changed to Lakshadweep by an Act of Parliament in",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "1970"
+        },
+        {
+          "choice_id": 2,
+          "choice": "1971"
+        },
+        {
+          "choice_id": 3,
+          "choice": "1972"
+        },
+        {
+          "choice_id": 4,
+          "choice": "1973"
+        }
+      ],
+      "answer": 4
+    },
+    {
+      "question_id": 2,
+      "question": "The members of the Rajya Sabha are elected by",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "the people"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Lok Sabha"
+        },
+        {
+          "choice_id": 3,
+          "choice": "elected members of the legislative assembly"
+        },
+        {
+          "choice_id": 4,
+          "choice": "elected members of the legislative council"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 3,
+      "question": "The members of the panchayat are",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "nominated by the district officer"
+        },
+        {
+          "choice_id": 2,
+          "choice": "the electorates of the respective territorial constituencies"
+        },
+        {
+          "choice_id": 3,
+          "choice": "nominated by local self-government minister of the state"
+        },
+        {
+          "choice_id": 4,
+          "choice": "nominated by the block development organization"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 4,
+      "question": "The power to decide an election petition is vested in the",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Parliament"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Supreme Court"
+        },
+        {
+          "choice_id": 3,
+          "choice": "High courts"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Election Commission"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 5,
+      "question": "The present Lok Sabha is the",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "13th Lok Sabha"
+        },
+        {
+          "choice_id": 2,
+          "choice": "14th Lok Sabha"
+        },
+        {
+          "choice_id": 3,
+          "choice": "15th Lok Sabha"
+        },
+        {
+          "choice_id": 4,
+          "choice": "16th Lok Sabha"
+        }
+      ],
+      "answer": 4
+    },
+    {
+      "question_id": 6,
+      "question": "The Parliament of India can make use of the residuary powers",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "at all times"
+        },
+        {
+          "choice_id": 2,
+          "choice": "only during national emergency"
+        },
+        {
+          "choice_id": 3,
+          "choice": "during national emergency as well as constitutional emergency as well in a state"
+        },
+        {
+          "choice_id": 4,
+          "choice": "None of the above"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 7,
+      "question": "The members of Lok Sabha hold office for a term of",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "4 years"
+        },
+        {
+          "choice_id": 2,
+          "choice": "5 years"
+        },
+        {
+          "choice_id": 3,
+          "choice": "6 years"
+        },
+        {
+          "choice_id": 4,
+          "choice": "3 years"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 8,
+      "question": "The Parliament exercises control over council of ministers, the real executive, in several ways. Which one of the following has been wrongly listed as a method of control over executive?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Questions"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Supplementary questions"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Adjournment motions"
+        },
+        {
+          "choice_id": 4,
+          "choice": "None of the above"
+        }
+      ],
+      "answer": 4
+    },
+    {
+      "question_id": 9,
+      "question": "The number of writs that can be prayed for and issued by the Supreme Court and/or a High Court is",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "3"
+        },
+        {
+          "choice_id": 2,
+          "choice": "4"
+        },
+        {
+          "choice_id": 3,
+          "choice": "5"
+        },
+        {
+          "choice_id": 4,
+          "choice": "6"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 10,
+      "question": "The minimum age to qualify for election to the Lok Sabha is",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "25 years"
+        },
+        {
+          "choice_id": 2,
+          "choice": "21 years"
+        },
+        {
+          "choice_id": 3,
+          "choice": "18 years"
+        },
+        {
+          "choice_id": 4,
+          "choice": "35 years"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 11,
+      "question": "The pension of a high court judge is charged to the",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Consolidated Fund of India"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Consolidated Fund of the state where he last served"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Consolidated Funds of the different states where he has served"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Contingency Fund of India"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 12,
+      "question": "The preamble says that the state in India will assure the dignity of the individual. The constitution seeks to achieve this object by guaranteeing",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "equal fundamental rights to each citizen"
+        },
+        {
+          "choice_id": 2,
+          "choice": "the right to adequate means of livelihood to each individual"
+        },
+        {
+          "choice_id": 3,
+          "choice": "just and humane conditions of work to each individual"
+        },
+        {
+          "choice_id": 4,
+          "choice": "equal wages for equal work to each individual irrespective of sex"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 13,
+      "question": "The minimum age of the voter in India is",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "15 years"
+        },
+        {
+          "choice_id": 2,
+          "choice": "18 years"
+        },
+        {
+          "choice_id": 3,
+          "choice": "21 years"
+        },
+        {
+          "choice_id": 4,
+          "choice": "25 years"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 14,
+      "question": "The members of a State Commission can be removed by the",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "governor on a report by the Supreme Court"
+        },
+        {
+          "choice_id": 2,
+          "choice": "governor on a resolution passed by Parliament"
+        },
+        {
+          "choice_id": 3,
+          "choice": "president on a report by the Supreme Court"
+        },
+        {
+          "choice_id": 4,
+          "choice": "president on a resolution passed by Parliament"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 15,
+      "question": "The members of the Rajya Sabha are",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "directly elected by the people on the basis of universal adult franchise"
+        },
+        {
+          "choice_id": 2,
+          "choice": "elected by the members of the state legislative assemblies"
+        },
+        {
+          "choice_id": 3,
+          "choice": "elected by the members of the state legislative councils"
+        },
+        {
+          "choice_id": 4,
+          "choice": "elected by the members of the state legislative councils and state legislative assemblies"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 16,
+      "question": "The president addresses both the Houses of Parliament assembled together",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "during emergency session summoned for the purpose"
+        },
+        {
+          "choice_id": 2,
+          "choice": "every session"
+        },
+        {
+          "choice_id": 3,
+          "choice": "first session after each general election and the first session of each year"
+        },
+        {
+          "choice_id": 4,
+          "choice": "any session"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 17,
+      "question": "The president can dissolve the Lok Sabha on",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "advice of the prime minister"
+        },
+        {
+          "choice_id": 2,
+          "choice": "advice of the chief justice of India"
+        },
+        {
+          "choice_id": 3,
+          "choice": "recommendation of Lok Sabha"
+        },
+        {
+          "choice_id": 4,
+          "choice": "recommendation of the Rajya Sabha"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 18,
+      "question": "The president can expend out of the Contingency Fund of India",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "only with the approval of the Parliament"
+        },
+        {
+          "choice_id": 2,
+          "choice": "without the approval of the Parliament"
+        },
+        {
+          "choice_id": 3,
+          "choice": "only in the case of the national calamities"
+        },
+        {
+          "choice_id": 4,
+          "choice": "None of the above"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 19,
+      "question": "The pre-requisite for the enforcement of directive principles of the state policy is",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "an effective, hones government"
+        },
+        {
+          "choice_id": 2,
+          "choice": "socialist government"
+        },
+        {
+          "choice_id": 3,
+          "choice": "active opposition"
+        },
+        {
+          "choice_id": 4,
+          "choice": "adequate resources"
+        }
+      ],
+      "answer": 4
+    },
+    {
+      "question_id": 20,
+      "question": "The Objectives Resolution which laid down the main objectives to guide the deliberations of the Assembly was moved by",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Sardar Patel"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Jawaharlal Nehru"
+        },
+        {
+          "choice_id": 3,
+          "choice": "K.M. Munshi"
+        },
+        {
+          "choice_id": 4,
+          "choice": "B.R. Ambedkar"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 21,
+      "question": "The president can advance money to meet unforeseen expenses, pending authorization by Parliament, from",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "the Consolidated Fund of India"
+        },
+        {
+          "choice_id": 2,
+          "choice": "the Contingency Fund"
+        },
+        {
+          "choice_id": 3,
+          "choice": "both the above funds"
+        },
+        {
+          "choice_id": 4,
+          "choice": "None of the above"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 22,
+      "question": "The position of a chief minister is",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "similar to that of the prime minister"
+        },
+        {
+          "choice_id": 2,
+          "choice": "identical to that of the president"
+        },
+        {
+          "choice_id": 3,
+          "choice": "a combination of the position of the prime minister and president"
+        },
+        {
+          "choice_id": 4,
+          "choice": "not constitutional"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 23,
+      "question": "The members of the Rajya Sabha are elected for a term",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "of six years"
+        },
+        {
+          "choice_id": 2,
+          "choice": "determined by the state legislative assembly of a state"
+        },
+        {
+          "choice_id": 3,
+          "choice": "of four years"
+        },
+        {
+          "choice_id": 4,
+          "choice": "None of the above"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 24,
+      "question": "The office of the president can fall vacant due to",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "resignation"
+        },
+        {
+          "choice_id": 2,
+          "choice": "death"
+        },
+        {
+          "choice_id": 3,
+          "choice": "removal"
+        },
+        {
+          "choice_id": 4,
+          "choice": "All of the above"
+        }
+      ],
+      "answer": 4
+    },
+    {
+      "question_id": 25,
+      "question": "The president can dismiss a member of the council of ministers",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "on his own"
+        },
+        {
+          "choice_id": 2,
+          "choice": "on the recommendation of the prime  ministers"
+        },
+        {
+          "choice_id": 3,
+          "choice": "only under emergency conditions"
+        },
+        {
+          "choice_id": 4,
+          "choice": "with the consent of the speaker"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 26,
+      "question": "The president demand for further reforms, attended with the dislocation caused by the non-cooperation movement, led the British government to appoint a Statutory Commission in 1927. This commission was headed by",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Sri John Simon"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Lord Chelmsford"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Lord Minto"
+        },
+        {
+          "choice_id": 4,
+          "choice": "E.S. Montague"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 27,
+      "question": "The office of the prime minister of India",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "has a constitutional basis"
+        },
+        {
+          "choice_id": 2,
+          "choice": "has a statutory basis"
+        },
+        {
+          "choice_id": 3,
+          "choice": "has conventional basis"
+        },
+        {
+          "choice_id": 4,
+          "choice": "None of the above"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 28,
+      "question": "The powers to legislate with respect to any matter not enumerated in any of the three lists are mentioned as residuary powers. Which of the following is empowered to determine finally as to whether or not a particular matter falls in this category",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Lok Sabha"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Judiciary"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Rajya Sabha"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Parliament"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 29,
+      "question": "The members of the parliamentary committee",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "are appointed by the president in consultation with the prime minister"
+        },
+        {
+          "choice_id": 2,
+          "choice": "are appointed by the president on the recommendation of the speaker"
+        },
+        {
+          "choice_id": 3,
+          "choice": "are taken from various groups and parties in Parliament in proportion to their respective strength"
+        },
+        {
+          "choice_id": 4,
+          "choice": "both (b) and (c)"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 30,
+      "question": "The name of a candidate for the office of president of India may be proposed by",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "any five citizens of India"
+        },
+        {
+          "choice_id": 2,
+          "choice": "any five members of the Parliament"
+        },
+        {
+          "choice_id": 3,
+          "choice": "any one member of the Electoral College"
+        },
+        {
+          "choice_id": 4,
+          "choice": "any ten members of the Electoral College"
+        }
+      ],
+      "answer": 4
+    },
+    {
+      "question_id": 31,
+      "question": "The Parliament can restrict or abrogate by law, fundamental rights with respect to",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "the members of the armed forces"
+        },
+        {
+          "choice_id": 2,
+          "choice": "the forces charged with the maintenance of public order"
+        },
+        {
+          "choice_id": 3,
+          "choice": "the persons employed in any bureau or other organization established by the state for purpose of intelligence"
+        },
+        {
+          "choice_id": 4,
+          "choice": "All of the above"
+        }
+      ],
+      "answer": 4
+    },
+    {
+      "question_id": 32,
+      "question": "Preamble enshrines the ideals of liberty, equality and fraternity - ideals inspired by the",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Russian Revolution"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Irish Revolution"
+        },
+        {
+          "choice_id": 3,
+          "choice": "French Revolution"
+        },
+        {
+          "choice_id": 4,
+          "choice": "US Constitution"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 33,
+      "question": "The minimum number of members that must be present to hold the meeting of the Lok Sabha is",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "one-fourth of the total membership"
+        },
+        {
+          "choice_id": 2,
+          "choice": "one-tenth of the total membership of the Houses"
+        },
+        {
+          "choice_id": 3,
+          "choice": "50 percent strength of the Lok Sabha"
+        },
+        {
+          "choice_id": 4,
+          "choice": "at least 100 members"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 34,
+      "question": "The Parliament enjoys legislative power over subjects in",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "the union list only"
+        },
+        {
+          "choice_id": 2,
+          "choice": "the concurrent list only"
+        },
+        {
+          "choice_id": 3,
+          "choice": "both union and concurrent list"
+        },
+        {
+          "choice_id": 4,
+          "choice": "all the three lists, viz. union list, state list and the concurrent list"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 35,
+      "question": "The power to prorogue the Lok Sabha rests with",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "the speaker"
+        },
+        {
+          "choice_id": 2,
+          "choice": "the president"
+        },
+        {
+          "choice_id": 3,
+          "choice": "the prime minister"
+        },
+        {
+          "choice_id": 4,
+          "choice": "the minister for parliamentary affairs"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 36,
+      "question": "The phrase \"bicameral legislature\" means",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "a single assembly"
+        },
+        {
+          "choice_id": 2,
+          "choice": "an elected legislature"
+        },
+        {
+          "choice_id": 3,
+          "choice": "a legislature consisting of a lower and an upper chamber"
+        },
+        {
+          "choice_id": 4,
+          "choice": "parliamentary system of government"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 37,
+      "question": "The position of the president which was undermined by the 42nd amendment was sub-sequently somewhat retrieved by the",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "44th amendment"
+        },
+        {
+          "choice_id": 2,
+          "choice": "45th amendment"
+        },
+        {
+          "choice_id": 3,
+          "choice": "26th amendment"
+        },
+        {
+          "choice_id": 4,
+          "choice": "None of the above"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 38,
+      "question": "The oath of office is administered to the members of state council of ministers by",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "the governor"
+        },
+        {
+          "choice_id": 2,
+          "choice": "the chief minister"
+        },
+        {
+          "choice_id": 3,
+          "choice": "chief justice of the state high court"
+        },
+        {
+          "choice_id": 4,
+          "choice": "speaker of legislative assembly"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 39,
+      "question": "The power of Supreme Court of India to decide  the dispute between the centre and states falls under its",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "advisory jurisdiction"
+        },
+        {
+          "choice_id": 2,
+          "choice": "appellate jurisdiction"
+        },
+        {
+          "choice_id": 3,
+          "choice": "original jurisdiction"
+        },
+        {
+          "choice_id": 4,
+          "choice": "constitutional jurisdiction"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 40,
+      "question": "The members of Lok Sabha are",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "directly elected by the people"
+        },
+        {
+          "choice_id": 2,
+          "choice": "indirectly elected"
+        },
+        {
+          "choice_id": 3,
+          "choice": "nominated"
+        },
+        {
+          "choice_id": 4,
+          "choice": "partly elected and partly nominated"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 41,
+      "question": "The parliament can legislate on a subject in the state list",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "if the Rajya Sabha passes a resolution by two-third majority declaring the subject in state list of national importance"
+        },
+        {
+          "choice_id": 2,
+          "choice": "if the legislatures of two or more states recommend to the Parliament to legislate on such a subject with regard to those states"
+        },
+        {
+          "choice_id": 3,
+          "choice": "for the implementation of treaties and agreements with foreign powers"
+        },
+        {
+          "choice_id": 4,
+          "choice": "All the above"
+        }
+      ],
+      "answer": 4
+    },
+    {
+      "question_id": 42,
+      "question": "The oath of office is administered to the Governor by the",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "chief justice of India"
+        },
+        {
+          "choice_id": 2,
+          "choice": "president"
+        },
+        {
+          "choice_id": 3,
+          "choice": "chief justice of high court"
+        },
+        {
+          "choice_id": 4,
+          "choice": "speaker of legislative assembly"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 43,
+      "question": "The members of Parliament can express themselves in the House in",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "English only"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Hindi only"
+        },
+        {
+          "choice_id": 3,
+          "choice": "English or Hindi"
+        },
+        {
+          "choice_id": 4,
+          "choice": "English, Hindi or mother tongue"
+        }
+      ],
+      "answer": 4
+    },
+    {
+      "question_id": 44,
+      "question": "The nature of the anti-Imperialist struggle was",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "always peaceful and constitutional"
+        },
+        {
+          "choice_id": 2,
+          "choice": "initially constitutional and by large non-violent"
+        },
+        {
+          "choice_id": 3,
+          "choice": "based on continuous armed resistance"
+        },
+        {
+          "choice_id": 4,
+          "choice": "largely supported by foreign powers"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 45,
+      "question": "The position of the prime minister of India is superior to that of his counter-part in Britain because",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "India is the biggest democracy"
+        },
+        {
+          "choice_id": 2,
+          "choice": "India has adopted the federal system"
+        },
+        {
+          "choice_id": 3,
+          "choice": "India has a written constitution"
+        },
+        {
+          "choice_id": 4,
+          "choice": "his office enjoys constitutional basis"
+        }
+      ],
+      "answer": 4
+    },
+    {
+      "question_id": 46,
+      "question": "The members of the committees of Parliament are",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "nominated by the leaders of the various parties in the Parliament"
+        },
+        {
+          "choice_id": 2,
+          "choice": "nominated by the prime minister"
+        },
+        {
+          "choice_id": 3,
+          "choice": "appointed by the speaker or elected by the House from amongst persons who are not members of Parliament"
+        },
+        {
+          "choice_id": 4,
+          "choice": "appointed by the speaker or elected by the House from amongst its own members"
+        }
+      ],
+      "answer": 4
+    },
+    {
+      "question_id": 47,
+      "question": "The parliament can legislate on the subject in the state list",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "if the President issues an order authorizing it to do so"
+        },
+        {
+          "choice_id": 2,
+          "choice": "if the Supreme Court of India gives authority to the Parliament of India in this regard"
+        },
+        {
+          "choice_id": 3,
+          "choice": "if the Rajya Sabha passes a resolution by two-third of its to legislate on a state matter in the national interest"
+        },
+        {
+          "choice_id": 4,
+          "choice": "None of the above"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 48,
+      "question": "The national flag was adopted by the Constituent Assembly of India on 22 July 1947 and was presented to the nation at the midnight session of the Assembly on 14th August 1947 on behalf of",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "the minorities of India"
+        },
+        {
+          "choice_id": 2,
+          "choice": "the National Integration Council"
+        },
+        {
+          "choice_id": 3,
+          "choice": "the women of India"
+        },
+        {
+          "choice_id": 4,
+          "choice": "the people of India"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 49,
+      "question": "The president convenes and prorogues all sessions of Parliament in consultation with",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "the speaker"
+        },
+        {
+          "choice_id": 2,
+          "choice": "the prime minister"
+        },
+        {
+          "choice_id": 3,
+          "choice": "the prime minister and the leader of the Opposition in Lok Sabha"
+        },
+        {
+          "choice_id": 4,
+          "choice": "None of the above"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 50,
+      "question": "The preamble to our constitution provided that India is",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "a sovereign, socialist and democratic republic"
+        },
+        {
+          "choice_id": 2,
+          "choice": "a sovereign, socialist, secular and democratic republic"
+        },
+        {
+          "choice_id": 3,
+          "choice": "a sovereign republic with a socialist pattern of society"
+        },
+        {
+          "choice_id": 4,
+          "choice": "a socialist, secular and democratic republic"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 51,
+      "question": "The minimum age required to become a member of Rajya Sabha is",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "21 years"
+        },
+        {
+          "choice_id": 2,
+          "choice": "25 years"
+        },
+        {
+          "choice_id": 3,
+          "choice": "30 years"
+        },
+        {
+          "choice_id": 4,
+          "choice": "35 years"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 52,
+      "question": "The president can be impeached for",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "violating the constitution"
+        },
+        {
+          "choice_id": 2,
+          "choice": "disregarding Parliament"
+        },
+        {
+          "choice_id": 3,
+          "choice": "for not taking the prime minister\"s advice"
+        },
+        {
+          "choice_id": 4,
+          "choice": "All of the above"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 53,
+      "question": "The name of the union given in the Constitution is",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Hindustan or Bharatavarsha"
+        },
+        {
+          "choice_id": 2,
+          "choice": "India or Hindustan"
+        },
+        {
+          "choice_id": 3,
+          "choice": "India or Bharat"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Bharatadesh or India"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 54,
+      "question": "The phrase \"procedure established by the law\" means",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "the judges in India cannot question the fairness or validity of a law, provided it is within the limits of the constitution"
+        },
+        {
+          "choice_id": 2,
+          "choice": "judges in India can question the fairness or validity of an undue law even if it is within the limits of the constitution"
+        },
+        {
+          "choice_id": 3,
+          "choice": "judges in India can declare a law invalid simply because in their opinion the law is not due or is unjust"
+        },
+        {
+          "choice_id": 4,
+          "choice": "None of the above"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 55,
+      "question": "The national anthem was written by",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Bankim Chandra Chatterjee"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Rabindranath Tagore"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Sarat Chandra Chatterjee"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Aurobindo Ghosh"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 56,
+      "question": "The member of a State Public Service Commission can be removed on the ground of misbehavior only after an enquiry has been conducted by the",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Supreme Court of India"
+        },
+        {
+          "choice_id": 2,
+          "choice": "High Court of the state"
+        },
+        {
+          "choice_id": 3,
+          "choice": "committee appointed by the president"
+        },
+        {
+          "choice_id": 4,
+          "choice": "None of the above"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 57,
+      "question": "The members of the standing committee are taken from the Lok Sabha and Rajya Sabha in the ratio of",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "two and one respectively"
+        },
+        {
+          "choice_id": 2,
+          "choice": "three and one respectively"
+        },
+        {
+          "choice_id": 3,
+          "choice": "four and one respectively"
+        },
+        {
+          "choice_id": 4,
+          "choice": "equal members for both the Houses"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 58,
+      "question": "The preamble enshrines certain ideals that were first spelt out in",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "the speech by Jawaharlal Nehru on the banks of Ravi when he called for Purana Swaraj"
+        },
+        {
+          "choice_id": 2,
+          "choice": "the Nehru report"
+        },
+        {
+          "choice_id": 3,
+          "choice": "a resolution adopted at the Karachi session of the Indian National Congress"
+        },
+        {
+          "choice_id": 4,
+          "choice": "the Objectives Resolution adopted by the Constituent Assembly"
+        }
+      ],
+      "answer": 4
+    },
+    {
+      "question_id": 59,
+      "question": "The Nagaland State of India cannot be termed as a state because it lacks",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "sovereignty"
+        },
+        {
+          "choice_id": 2,
+          "choice": "bicameral legislature"
+        },
+        {
+          "choice_id": 3,
+          "choice": "a high court exclusively of its own"
+        },
+        {
+          "choice_id": 4,
+          "choice": "None of the above"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 60,
+      "question": "The Objectives Resolution was unanimously adopted by the Constituent Assembly on",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "22nd January 1947"
+        },
+        {
+          "choice_id": 2,
+          "choice": "26th November 1946"
+        },
+        {
+          "choice_id": 3,
+          "choice": "1st October 1948"
+        },
+        {
+          "choice_id": 4,
+          "choice": "None of the above"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 61,
+      "question": "The preamble declares India as a sovereign state which implies",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "India is free to conduct her internal affairs"
+        },
+        {
+          "choice_id": 2,
+          "choice": "India is free to conduct her external affairs"
+        },
+        {
+          "choice_id": 3,
+          "choice": "India is free to conduct here internal as well as external affairs"
+        },
+        {
+          "choice_id": 4,
+          "choice": "None of the above"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 62,
+      "question": "The parliament works through committees which",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "help the government in the formulation of policy"
+        },
+        {
+          "choice_id": 2,
+          "choice": "exercise effective control over government on a regular and continuing basis"
+        },
+        {
+          "choice_id": 3,
+          "choice": "ensure that the parliament strictly adheres to the provision of the constitution and the prescribed parliamentary procedure"
+        },
+        {
+          "choice_id": 4,
+          "choice": "both (a) and (b)"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 63,
+      "question": "The Muslim League as a political party was founded in",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "1906"
+        },
+        {
+          "choice_id": 2,
+          "choice": "1909"
+        },
+        {
+          "choice_id": 3,
+          "choice": "1915"
+        },
+        {
+          "choice_id": 4,
+          "choice": "1919"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 64,
+      "question": "The members of the state legislature exercise control over the council of the ministers through",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "questions and supplementary questions"
+        },
+        {
+          "choice_id": 2,
+          "choice": "criticism of its policies"
+        },
+        {
+          "choice_id": 3,
+          "choice": "adjournment motion"
+        },
+        {
+          "choice_id": 4,
+          "choice": "All of the above"
+        }
+      ],
+      "answer": 4
+    },
+    {
+      "question_id": 65,
+      "question": "The preamble to our constitution includes all the following except",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "adult franchise"
+        },
+        {
+          "choice_id": 2,
+          "choice": "equality of status"
+        },
+        {
+          "choice_id": 3,
+          "choice": "fraternity"
+        },
+        {
+          "choice_id": 4,
+          "choice": "justice"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 66,
+      "question": "Mainstream Nationalism in India",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "was characterized by Chauvinism"
+        },
+        {
+          "choice_id": 2,
+          "choice": "aimed at restoration of the Hindu state"
+        },
+        {
+          "choice_id": 3,
+          "choice": "had national socialism as its ultimate goal"
+        },
+        {
+          "choice_id": 4,
+          "choice": "aimed at emancipation from colonial rule"
+        }
+      ],
+      "answer": 4
+    },
+    {
+      "question_id": 67,
+      "question": "The minimum age required to become the prime minister of India is",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "25 years"
+        },
+        {
+          "choice_id": 2,
+          "choice": "30 years"
+        },
+        {
+          "choice_id": 3,
+          "choice": "40 years"
+        },
+        {
+          "choice_id": 4,
+          "choice": "35 years"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 68,
+      "question": "The objective of the Morley-Minto Reforms was",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "extension of provincial assemblies"
+        },
+        {
+          "choice_id": 2,
+          "choice": "to give more powers to local government"
+        },
+        {
+          "choice_id": 3,
+          "choice": "to abolish the post of secretary of the state for India"
+        },
+        {
+          "choice_id": 4,
+          "choice": "to establish diarchy in provinces"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 69,
+      "question": "The oath of office is conducted to the president by",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "the speaker of Lok Sabha"
+        },
+        {
+          "choice_id": 2,
+          "choice": "the chief justice of India"
+        },
+        {
+          "choice_id": 3,
+          "choice": "the vice-president of India"
+        },
+        {
+          "choice_id": 4,
+          "choice": "None of the above"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 70,
+      "question": "The members of the state legislative assemblies are elected for a period of",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "2 years"
+        },
+        {
+          "choice_id": 2,
+          "choice": "6 years"
+        },
+        {
+          "choice_id": 3,
+          "choice": "5 years"
+        },
+        {
+          "choice_id": 4,
+          "choice": "3 years"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 71,
+      "question": "The office of the prime minister of India",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "rests on coronations"
+        },
+        {
+          "choice_id": 2,
+          "choice": "is created by the Parliament"
+        },
+        {
+          "choice_id": 3,
+          "choice": "is created by the constitution"
+        },
+        {
+          "choice_id": 4,
+          "choice": "All of the above"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 72,
+      "question": "The president can be removed from his office before the expiry of his normal term only on the recommendation of",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "the Supreme Court"
+        },
+        {
+          "choice_id": 2,
+          "choice": "the chief justice of India"
+        },
+        {
+          "choice_id": 3,
+          "choice": "council of ministers"
+        },
+        {
+          "choice_id": 4,
+          "choice": "the two Houses of Parliament"
+        }
+      ],
+      "answer": 4
+    },
+    {
+      "question_id": 73,
+      "question": "The new committee system constitutes an improvement over the earlier committee system in so far as",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "it assures representation to all the political parties in proportion to their strength in the Parliament"
+        },
+        {
+          "choice_id": 2,
+          "choice": "it enables the Parliament to examine the grants of all the ministries and departments in detail"
+        },
+        {
+          "choice_id": 3,
+          "choice": "it enables the Parliament to accept the demands of various ministries without scrutiny"
+        },
+        {
+          "choice_id": 4,
+          "choice": "None of the above"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 74,
+      "question": "The members of the State Public Service Commission are appointed by the",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "chief minister"
+        },
+        {
+          "choice_id": 2,
+          "choice": "chief justice"
+        },
+        {
+          "choice_id": 3,
+          "choice": "governor"
+        },
+        {
+          "choice_id": 4,
+          "choice": "vice-president"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 75,
+      "question": "The president can assign any of the functions of the union government to the state government",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "in consultation with the chief justice of India"
+        },
+        {
+          "choice_id": 2,
+          "choice": "in consultation with the state governor"
+        },
+        {
+          "choice_id": 3,
+          "choice": "in his discretion"
+        },
+        {
+          "choice_id": 4,
+          "choice": "in consultation with the government of the state"
+        }
+      ],
+      "answer": 4
+    }
+  ]

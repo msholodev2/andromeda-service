@@ -1,0 +1,1727 @@
+[
+    {
+      "question_id": 0,
+      "question": "The Paithan (Jayakwadi) Hydro-electric project, completed with the help of Japan, is on the river",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Ganga"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Cauvery"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Narmada"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Godavari"
+        }
+      ],
+      "answer": 4
+    },
+    {
+      "question_id": 1,
+      "question": "The percentage of irrigated land in India is about",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "45"
+        },
+        {
+          "choice_id": 2,
+          "choice": "65"
+        },
+        {
+          "choice_id": 3,
+          "choice": "35"
+        },
+        {
+          "choice_id": 4,
+          "choice": "25"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 2,
+      "question": "The southernmost point of peninsular India, that is, Kanyakumari, is",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "north of Tropic of Cancer"
+        },
+        {
+          "choice_id": 2,
+          "choice": "south of the Equator"
+        },
+        {
+          "choice_id": 3,
+          "choice": "south of the Capricorn"
+        },
+        {
+          "choice_id": 4,
+          "choice": "north of the Equator"
+        }
+      ],
+      "answer": 4
+    },
+    {
+      "question_id": 3,
+      "question": "The pass located at the southern end of the Nilgiri Hills in south India is called",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "the Palghat gap"
+        },
+        {
+          "choice_id": 2,
+          "choice": "the Bhorghat pass"
+        },
+        {
+          "choice_id": 3,
+          "choice": "the Thalgat pass"
+        },
+        {
+          "choice_id": 4,
+          "choice": "the Bolan pass"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 4,
+      "question": "Which of the following factors are responsible for the rapid growth of sugar production in south India as compared to north India?Higher per acre field of sugarcaneHigher sucrose content of sugarcaneLower labour costLonger crushing period",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "I and II"
+        },
+        {
+          "choice_id": 2,
+          "choice": "I, II and III"
+        },
+        {
+          "choice_id": 3,
+          "choice": "I, III and IV"
+        },
+        {
+          "choice_id": 4,
+          "choice": "I, II and IV"
+        }
+      ],
+      "answer": 4
+    },
+    {
+      "question_id": 5,
+      "question": "The principal copper deposits of India lie in which of the following places?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Hazaribag and Singbhum of Bihar"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Khetri and Daribo areas of Rajasthan"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Anantapur in Andhra Pradesh"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Siwaliks in Uttar Pradesh and in Karnataka"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 6,
+      "question": "Which of the following are true regarding Jhum cultivation in India?It is largely practiced in AssamIt is referred to as \"slash and burn\" techniqueIn it, the fertility is exhausted in a few years",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "I, II and III"
+        },
+        {
+          "choice_id": 2,
+          "choice": "II and III"
+        },
+        {
+          "choice_id": 3,
+          "choice": "I and II"
+        },
+        {
+          "choice_id": 4,
+          "choice": "I and III"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 7,
+      "question": "The Yarlung Zangbo river, in India, is known as",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Ganga"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Indus"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Brahmaputra"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Mahanadi"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 8,
+      "question": "The Salal Project is on the river",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Chenab"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Jhelum"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Ravi"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Sutlej"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 9,
+      "question": "The only zone in the country that produces gold is also rich in iron is",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "North-eastern zone"
+        },
+        {
+          "choice_id": 2,
+          "choice": "North-western zone"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Southern zone"
+        },
+        {
+          "choice_id": 4,
+          "choice": "None of the above"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 10,
+      "question": "The percentage of earth surface covered by India is",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "2.4"
+        },
+        {
+          "choice_id": 2,
+          "choice": "3.4"
+        },
+        {
+          "choice_id": 3,
+          "choice": "4.4"
+        },
+        {
+          "choice_id": 4,
+          "choice": "5.4"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 11,
+      "question": "Which among the following is/are the major factor/factors responsible for the monsoon type of climate in India?LocationThermal contrastUpper air circulationInter-tropical convergence zone",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "I"
+        },
+        {
+          "choice_id": 2,
+          "choice": "II, III"
+        },
+        {
+          "choice_id": 3,
+          "choice": "II, III and IV"
+        },
+        {
+          "choice_id": 4,
+          "choice": "I, II, III and IV"
+        }
+      ],
+      "answer": 4
+    },
+    {
+      "question_id": 12,
+      "question": "The present forest area of India, according to satellite data, is",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "increasing"
+        },
+        {
+          "choice_id": 2,
+          "choice": "decreasing"
+        },
+        {
+          "choice_id": 3,
+          "choice": "static"
+        },
+        {
+          "choice_id": 4,
+          "choice": "decreasing in open forest area but increasing in closed forest area"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 13,
+      "question": "The India\"s highest annual rainfall is reported at",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Namchi, Sikkim"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Churu, Rajasthan"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Mawsynram, Meghalaya"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Chamba, Himachal Pradesh"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 14,
+      "question": "The refineries are Mathura, Digboi and Panipat are set up by",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Indian Oil Corporation Ltd."
+        },
+        {
+          "choice_id": 2,
+          "choice": "Hindustan Petroleum Corporation Ltd."
+        },
+        {
+          "choice_id": 3,
+          "choice": "Bharat Petroleum Corporation Ltd."
+        },
+        {
+          "choice_id": 4,
+          "choice": "Crude Distillation unit of Madras Refineries Ltd."
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 15,
+      "question": "What is the predominant type of Indian agriculture?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Commercial agriculture"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Extensive agriculture"
+        },
+        {
+          "choice_id": 3,
+          "choice": "plantation agriculture"
+        },
+        {
+          "choice_id": 4,
+          "choice": "subsistence agriculture"
+        }
+      ],
+      "answer": 4
+    },
+    {
+      "question_id": 16,
+      "question": "The Radcliffe line is a boundary between",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "India and Pakistan"
+        },
+        {
+          "choice_id": 2,
+          "choice": "India and China"
+        },
+        {
+          "choice_id": 3,
+          "choice": "India and Myanmar"
+        },
+        {
+          "choice_id": 4,
+          "choice": "India and Afghanistan"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 17,
+      "question": "Which of the following has a potential for harnessing of tidal energy in India?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Gulf of Cambay"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Gulf of Mannar"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Backwaters of Kerala"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Chilka lake"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 18,
+      "question": "The typical area of sal forest in the Indian peninsular upland occurs",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "on the western ghats"
+        },
+        {
+          "choice_id": 2,
+          "choice": "between the Tapti and the Narmada"
+        },
+        {
+          "choice_id": 3,
+          "choice": "to the north-east of the Godavari"
+        },
+        {
+          "choice_id": 4,
+          "choice": "on the Malwa plateau"
+        }
+      ],
+      "answer": 4
+    },
+    {
+      "question_id": 19,
+      "question": "The state having a largest area of forest cover in India is",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Arunachal Pradesh"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Haryana"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Madhya Pradesh"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Assam"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 20,
+      "question": "The year ____ is called a Great Divide in the demographic history of India.",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "1901"
+        },
+        {
+          "choice_id": 2,
+          "choice": "1921"
+        },
+        {
+          "choice_id": 3,
+          "choice": "1941"
+        },
+        {
+          "choice_id": 4,
+          "choice": "1951"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 21,
+      "question": "The only private sector refinery set up by Reliance Petroleum Ltd. is located at",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Guwahati"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Jamnagar"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Mumbai"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Chennai"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 22,
+      "question": "The only state in India that produces saffron is",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Assam"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Himachal Pradesh"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Jammu and Kashmir"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Meghalaya"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 23,
+      "question": "Three important rivers of the Indian subcontinent have their sources near the Mansarover Lake in the Great Himalayas. These rivers are",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Indus, Jhelum and Sutlej"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Brahmaputra, Sutlej and Yamuna"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Brahmaputra, Indus and Sutlej"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Jhelum, Sutlej and Yamuna"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 24,
+      "question": "The zonal soil type of peninsular India belongs to",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "red soils"
+        },
+        {
+          "choice_id": 2,
+          "choice": "yellow soils"
+        },
+        {
+          "choice_id": 3,
+          "choice": "black soils"
+        },
+        {
+          "choice_id": 4,
+          "choice": "older alluvium"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 25,
+      "question": "The most plausible explanation for the location of the Thar desert in western India is",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "the obstruction caused by the Aravalis to the rain-bearing wind that proceeds to the Ganga Valley"
+        },
+        {
+          "choice_id": 2,
+          "choice": "the evaporation of moisture by heat"
+        },
+        {
+          "choice_id": 3,
+          "choice": "the absence of mountains to the north of Rajasthan to cause orographic rainfall in it"
+        },
+        {
+          "choice_id": 4,
+          "choice": "that the moisture carried by the South-west monsoon is driven away by the dry upper air current"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 26,
+      "question": "The northern boundary of the peninsular plateau of Indian runs parallel to the Ganga and the Yamuna from Rajmahal hills to a point near",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Allahabad"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Delhi"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Gwalior"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Jaipur"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 27,
+      "question": "Which of the following food grain crops occupies the largest part of the cropped area in India?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Barley and maize"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Jowar and bajra"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Rice"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Wheat"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 28,
+      "question": "The number of major languages, recognized in the Indian Union as official language, are",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "15"
+        },
+        {
+          "choice_id": 2,
+          "choice": "22"
+        },
+        {
+          "choice_id": 3,
+          "choice": "12"
+        },
+        {
+          "choice_id": 4,
+          "choice": "9"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 29,
+      "question": "The oldest rocks in India are reported from",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Dharwar region, Karnataka"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Aravalli range, Rajasthan"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Vindhyan range, Madhya Pradesh"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Siwalik range, Punjab"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 30,
+      "question": "Which of the following groups of rivers originate from  the Himachal mountains?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Beas, Ravi and Chenab"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Ravi, Chenab and Jhelum"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Sutlej, Beas and Ravi"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Sutlej, Ravi and Jhelum"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 31,
+      "question": "Which of the following groups of states has the largest deposits of iron ore?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Andhra Pradesh and Karnataka"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Bihar and Orissa"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Madhya Pradesh and Maharashtra"
+        },
+        {
+          "choice_id": 4,
+          "choice": "West Bengal and Assam"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 32,
+      "question": "Which of the following union territories of India has the highest density of population per sq km?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Pondicherry"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Lakshadweep"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Delhi"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Chandigarh"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 33,
+      "question": "which atomic power station in India is built completely indigenously?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Kalpakkam"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Narora"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Rawat Bhata"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Tarapore"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 34,
+      "question": "The south-west monsoon contributes ____ of the total rain in India.",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "86%"
+        },
+        {
+          "choice_id": 2,
+          "choice": "50%"
+        },
+        {
+          "choice_id": 3,
+          "choice": "22%"
+        },
+        {
+          "choice_id": 4,
+          "choice": "100%"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 35,
+      "question": "The Shimla Convention is an agreement that sets",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Shimla as a tourist spot"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Shimla as the capital of Himachal Pradesh"
+        },
+        {
+          "choice_id": 3,
+          "choice": "boundary between India and Tibet"
+        },
+        {
+          "choice_id": 4,
+          "choice": "None of the above"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 36,
+      "question": "Which of the following events took place in the Cenozoic era?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Formation of the rockies, India collides with Asia and the formation of the Himalayas and the Alps"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Formation of the Appalachians and central European mountains"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Splitting of India from Antarctic"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Breaking up of Pangaea"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 37,
+      "question": "The oldest oil field in India is the ____ field, in ____",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Anleshwar, Gujarat"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Bombay High, Maharashtra"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Nawagam, Gujarat"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Digboi, Assam"
+        }
+      ],
+      "answer": 4
+    },
+    {
+      "question_id": 38,
+      "question": "Unlike other parts of the Indian Coast, fishing industry has not developed along the Saurashtra coast because",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "there are few indentions suitable for fishing"
+        },
+        {
+          "choice_id": 2,
+          "choice": "of overwhelming dependence on agriculture and animal husbandary"
+        },
+        {
+          "choice_id": 3,
+          "choice": "the sea water is relatively more saline"
+        },
+        {
+          "choice_id": 4,
+          "choice": "of industrial development leading to widespread pollution of coastal area"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 39,
+      "question": "The mountain building in Himalayas began",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "about 45 million years ago"
+        },
+        {
+          "choice_id": 2,
+          "choice": "when the continental plates of India and Eurasia converged on each other"
+        },
+        {
+          "choice_id": 3,
+          "choice": "both (a) and (b)"
+        },
+        {
+          "choice_id": 4,
+          "choice": "None of the above"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 40,
+      "question": "The outer Himalayas lie between",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "the lease Himalayas and the Indo Gangetic plain"
+        },
+        {
+          "choice_id": 2,
+          "choice": "the foot hills and the Indo Gangetic plain"
+        },
+        {
+          "choice_id": 3,
+          "choice": "the greater Himalayas and the lesser Himalayas"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Indo-Gangetic plains and the peninsula"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 41,
+      "question": "Which of the following geographical features have played a great unifying role in strengthening the forces of homogeneity of the Indian people?The expanses of water surrounding the peninsulaThe Himalayan MountainsThe vastness of the countryThe presence of the Indian ocean",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "I"
+        },
+        {
+          "choice_id": 2,
+          "choice": "II"
+        },
+        {
+          "choice_id": 3,
+          "choice": "I and II"
+        },
+        {
+          "choice_id": 4,
+          "choice": "I, II, III and IV"
+        }
+      ],
+      "answer": 4
+    },
+    {
+      "question_id": 42,
+      "question": "Which of the following drainage systems fall into Bay of Bengal?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Ganga, Brahmaputra and Godavari"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Mahanadi, Krishna and Cauvery"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Luni, Narnada and Tapti"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Both (a) and (b)"
+        }
+      ],
+      "answer": 4
+    },
+    {
+      "question_id": 43,
+      "question": "The oldest oil refinery in India is at",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Digboi, Assam"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Haldia, near Kolkata"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Koyali, near Baroda"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Noonmati, Assam"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 44,
+      "question": "The oldest mountains in India are",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Aravalis"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Vindhyas"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Satpuras"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Nilgiri hills"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 45,
+      "question": "Which of the following groups of rivers have their source of origin in Tibet?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Brahmaputra, Ganges and Sutlej"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Ganges, Sutlej and Yamuna"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Brahmaputra, Indus and Sutlej"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Chenab, Ravi and Sutlej"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 46,
+      "question": "Which of the following measures are effective for soil conservation in India?  Avoiding crop rotation  Afforestation  Encouraging the use of chemical fertilizers  Limiting shifting cultivation",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "I and II"
+        },
+        {
+          "choice_id": 2,
+          "choice": "II and IV"
+        },
+        {
+          "choice_id": 3,
+          "choice": "III and IV"
+        },
+        {
+          "choice_id": 4,
+          "choice": "I, II and III"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 47,
+      "question": "Which of the following crops needs maximum water per hectare?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Barley"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Maize"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Sugarcane"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Wheat"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 48,
+      "question": "The watershed between India and Myanmar is formed by",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "the Naga hills"
+        },
+        {
+          "choice_id": 2,
+          "choice": "the Garo hills"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Khasi hills"
+        },
+        {
+          "choice_id": 4,
+          "choice": "the Jaintia hills"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 49,
+      "question": "The originating in the Himalayan mountain complex consists of how many distinct drainage systems of the Indian Subcontinent?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Two"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Three"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Four"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Five"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 50,
+      "question": "The percentage of India\"s total population employed in agriculture is nearly",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "40%"
+        },
+        {
+          "choice_id": 2,
+          "choice": "50%"
+        },
+        {
+          "choice_id": 3,
+          "choice": "60%"
+        },
+        {
+          "choice_id": 4,
+          "choice": "70%"
+        }
+      ],
+      "answer": 4
+    },
+    {
+      "question_id": 51,
+      "question": "Which of the following important rivers of India does not originate from the Western Ghats?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Cauvery"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Godavari"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Krishna"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Mahanadi"
+        }
+      ],
+      "answer": 4
+    },
+    {
+      "question_id": 52,
+      "question": "Which of the following areas or regions is most prone to earthquakes?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Ganga-Brahmaputra valley"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Deccan plateau"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Plains of northern India"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Western ghats"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 53,
+      "question": "The proportion of forest to the total national geographical area of India as envisaged by National Forest Policy is",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "30.3%"
+        },
+        {
+          "choice_id": 2,
+          "choice": "33.3%"
+        },
+        {
+          "choice_id": 3,
+          "choice": "38.3%"
+        },
+        {
+          "choice_id": 4,
+          "choice": "42.3%"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 54,
+      "question": "Which of the following dams has generations of power more than irrigation as its main purpose?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Gandhi Sagar"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Hirakud"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Periyar"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Tungabhadra"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 55,
+      "question": "Which of the following crops is regarded as a plantation crop?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Coconut"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Cotton"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Sugarcane"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Rice"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 56,
+      "question": "Which of the following countries leads in the production of aluminium and its products in the world?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Australia"
+        },
+        {
+          "choice_id": 2,
+          "choice": "France"
+        },
+        {
+          "choice_id": 3,
+          "choice": "India"
+        },
+        {
+          "choice_id": 4,
+          "choice": "USA"
+        }
+      ],
+      "answer": 4
+    },
+    {
+      "question_id": 57,
+      "question": "The natural region which holds the Indian subcontinent is",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "equatorial climate change region"
+        },
+        {
+          "choice_id": 2,
+          "choice": "hot deset"
+        },
+        {
+          "choice_id": 3,
+          "choice": "monsoon"
+        },
+        {
+          "choice_id": 4,
+          "choice": "mediterranean"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 58,
+      "question": "The most ideal region for the cultivation of cotton in India is",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "the Brahmaputra valley"
+        },
+        {
+          "choice_id": 2,
+          "choice": "the Indo-Gangetic valley"
+        },
+        {
+          "choice_id": 3,
+          "choice": "the Deccan plateau"
+        },
+        {
+          "choice_id": 4,
+          "choice": "the Rann of Kutch"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 59,
+      "question": "Which of the following are true with respect to the Indian Peninsular Plateau?The southern plateau block is formed mainly of granite and gneissThe Deccan lava plateau is an elevated tableland consisting of horizontally arranged lava sheetsThe Malwa plateau dominates the Vindhyam scraps, forming the northern flank of the plateauThe trough of the Narmada and Tapti are interposed between the Vindhyan and the Satpura ranges",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "I, II and III"
+        },
+        {
+          "choice_id": 2,
+          "choice": "I and II"
+        },
+        {
+          "choice_id": 3,
+          "choice": "I, II, III and IV"
+        },
+        {
+          "choice_id": 4,
+          "choice": "I, III and IV"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 60,
+      "question": "Which of the following types of soil are mostly confined to river basins and coastal plains of India?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Alluvial soils"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Black soils"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Laterite soils"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Red soils"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 61,
+      "question": "The two states of India, most richly endowed with iron ore, are",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Bihar and Orissa"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Madhya Pradesh and Orissa"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Bihar and West Bengal"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Madhya Pradesh and West Bengal"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 62,
+      "question": "The most fertile region of India is",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "the Himalayas"
+        },
+        {
+          "choice_id": 2,
+          "choice": "the central Highlands"
+        },
+        {
+          "choice_id": 3,
+          "choice": "the Indo-Gangetic plain"
+        },
+        {
+          "choice_id": 4,
+          "choice": "peninsular plateau"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 63,
+      "question": "Which of the following groups accounts for over 90 per cent of India\"s annual coal production?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Bihar, Orissa and West Bengal"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Bihar, Orissa and Madhya Pradesh"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Orissa, Madhya Pradesh and Tamil Nadu"
+        },
+        {
+          "choice_id": 4,
+          "choice": "West Bengal, Madhya Pradesh and Tamil Nadu"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 64,
+      "question": "The significant shifts in Indian agriculture during green revolution include",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "non-food grains reported some spectacular progress and shift in the cropping pattern"
+        },
+        {
+          "choice_id": 2,
+          "choice": "major food grains, in the eastern regions productions decreased and in the northern states increased"
+        },
+        {
+          "choice_id": 3,
+          "choice": "both (a) and (b)"
+        },
+        {
+          "choice_id": 4,
+          "choice": "None of the above"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 65,
+      "question": "The number of major ports in India is",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "5"
+        },
+        {
+          "choice_id": 2,
+          "choice": "8"
+        },
+        {
+          "choice_id": 3,
+          "choice": "13"
+        },
+        {
+          "choice_id": 4,
+          "choice": "15"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 66,
+      "question": "Which of the following is a peninsular river of India?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Gandak"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Kosi"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Krishna"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Sutlej"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 67,
+      "question": "Which of the following is the most important raw material for generation of power in India?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Coal"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Mineral Oil"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Natural Gas"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Uranium"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 68,
+      "question": "When it is noon IST at Allahabad in India, the time at Greenwich, London, will be",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "midnight ,GMT"
+        },
+        {
+          "choice_id": 2,
+          "choice": "1730 hours"
+        },
+        {
+          "choice_id": 3,
+          "choice": "0630 hours"
+        },
+        {
+          "choice_id": 4,
+          "choice": "None of the above"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 69,
+      "question": "Which country has the largest coast line?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "USA"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Australia"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Canada"
+        },
+        {
+          "choice_id": 4,
+          "choice": "India"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 70,
+      "question": "The river Godavari  is often referred to as Vridha Ganga because",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "it is the older river of India"
+        },
+        {
+          "choice_id": 2,
+          "choice": "of its large size and extent among the peninsular rivers"
+        },
+        {
+          "choice_id": 3,
+          "choice": "there are a fairly large number of pilgrimage centres situated on its banks"
+        },
+        {
+          "choice_id": 4,
+          "choice": "its length is nearly the same as that of the river Ganges"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 71,
+      "question": "The scarcity or crop failure of which of the following can cause a serious edible oil crisis in India?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "coconut"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Groundnut"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Linseed"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Mustard"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 72,
+      "question": "The pennines (Europe), Appalachians (America) and the Aravallis (India) are examples of",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "old mountains"
+        },
+        {
+          "choice_id": 2,
+          "choice": "young mountains"
+        },
+        {
+          "choice_id": 3,
+          "choice": "fold mountains"
+        },
+        {
+          "choice_id": 4,
+          "choice": "block mountains"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 73,
+      "question": "Which of the following factors are responsible for present crisis in the jute industry in India?The decline in overseas marketInadequately supply of raw juteStiff competition from synthetic packing materials Select the correct answer from the codes given below",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "I and II"
+        },
+        {
+          "choice_id": 2,
+          "choice": "I, II and III"
+        },
+        {
+          "choice_id": 3,
+          "choice": "I and III"
+        },
+        {
+          "choice_id": 4,
+          "choice": "II and III"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 74,
+      "question": "Which of the following factors are responsible for India\"s failure to fully exploit the inland fisheries during the last five decades?Silting and pollution of the inland water bodiesDeforestation in the catchment areas of the riversLack of marketing facilities Select the correct answer from the codes given below",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "I, II and III"
+        },
+        {
+          "choice_id": 2,
+          "choice": "I and II"
+        },
+        {
+          "choice_id": 3,
+          "choice": "I and III"
+        },
+        {
+          "choice_id": 4,
+          "choice": "II and III"
+        }
+      ],
+      "answer": 3
+    }
+  ]

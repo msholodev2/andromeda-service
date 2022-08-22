@@ -1,0 +1,554 @@
+[
+    {
+      "question_id": 0,
+      "question": "The ratio of width of our National flag to its length is",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "3:5"
+        },
+        {
+          "choice_id": 2,
+          "choice": "2:3"
+        },
+        {
+          "choice_id": 3,
+          "choice": "2:4"
+        },
+        {
+          "choice_id": 4,
+          "choice": "3:4"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 1,
+      "question": "Rabindranath Tagore\"s \"Jana Gana Mana\" has been adopted as India\"s National Anthem. How many stanzas of the said song were adopted?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Only the first stanza"
+        },
+        {
+          "choice_id": 2,
+          "choice": "The whole song"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Third and Fourth stanza"
+        },
+        {
+          "choice_id": 4,
+          "choice": "First and Second stanza"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 2,
+      "question": "\"Natya - Shastra\" the main source of India\"s classical dances was written by",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Nara Muni"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Bharat Muni"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Abhinav Gupt"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Tandu Muni"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 3,
+      "question": "\"Dandia\" is a popular dance of",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Punjab"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Gujarat"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Tamil Nadu"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Maharashtra"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 4,
+      "question": "The words \"Satyameva Jayate\" inscribed below the base plate of the emblem of India are taken from",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Rigveda"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Satpath Brahmana"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Mundak Upanishad"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Ramayana"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 5,
+      "question": "Mohiniattam dance from developed originally in which state?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Tamil Nadu"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Orissa"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Kerala"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Karnataka"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 6,
+      "question": "Which of the following folk dance forms is associated with Gujarat?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Nautanki"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Garba"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Kathakali"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Bhangra"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 7,
+      "question": "Which of the following Akademis is responsible for fostering the development of dance, drama and music in India?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "National School of Drama"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Sangeet Akademi"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Sahitya Akademi"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Lalit Kala Akademi"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 8,
+      "question": "The Rath Yatra at Puri is celebrated in honour of which Hindu deity",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Ram"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Jaganath"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Shiva"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Vishnu"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 9,
+      "question": "The book of Parsis is",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Torah"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Bible"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Zend Avesta"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Gita"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 10,
+      "question": "\"Kathakali\" is a folk dance prevalent in which state?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Karnataka"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Orissa"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Kerala"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Manipur"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 11,
+      "question": "Which of the following dances is a solo dance?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Ottan Thullal"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Kuchipudi"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Yakshagana"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Odissi"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 12,
+      "question": "The National Anthem was first sung in the year",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "1911"
+        },
+        {
+          "choice_id": 2,
+          "choice": "1913"
+        },
+        {
+          "choice_id": 3,
+          "choice": "1936"
+        },
+        {
+          "choice_id": 4,
+          "choice": "1935"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 13,
+      "question": "Thillana is a format of",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Kuchipudi"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Odissi"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Baharatanatyam"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Kathak"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 14,
+      "question": "\"Madhubani\",  a style of folk paintings, is popular in which of the following states in India?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Uttar Pradesh"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Rajasthan"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Madhya Pradesh"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Bihar"
+        }
+      ],
+      "answer": 4
+    },
+    {
+      "question_id": 15,
+      "question": "Kathak is a classical dance of",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "North India"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Tamilnadu"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Manipur"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Kerala"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 16,
+      "question": "The head quarters of Sahitya Akademi is at",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Mumbai"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Chennai"
+        },
+        {
+          "choice_id": 3,
+          "choice": "New Delhi"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Kolkata"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 17,
+      "question": "The dance encouraged and performance from the temple of Tanjore was",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Kathakali"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Odissi"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Kathak"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Bharatanatyam"
+        }
+      ],
+      "answer": 4
+    },
+    {
+      "question_id": 18,
+      "question": "The last Mahakumbh of the 20th century was held at",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Nasik"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Ujjain"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Allahabad"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Haridwar"
+        }
+      ],
+      "answer": 4
+    },
+    {
+      "question_id": 19,
+      "question": "The National Song of India was composed by",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Rabindranath Tagore"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Bankim Chandra Chatterji"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Iqbal"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Jai Shankar Prasad"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 20,
+      "question": "Who composed the famous song \"Sare Jahan SeAchha\"?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Jaidev"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Mohammad Iqbal"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Bankim Chandra Chattopadhyay"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Rabindranath Tagore"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 21,
+      "question": "In which of the following festivals are boat races a special feature?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Onam"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Rongali Bihu"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Navratri"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Pongal"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 22,
+      "question": "Kalchakra ceremony is associated with which of the following ceremonies?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Hinduism"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Buddhism"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Jainism"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Islam"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 23,
+      "question": "Which of the following places is famous for Chikankari work, which is a traditional art of embroidery?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Lucknow"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Hyderabad"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Jaipur"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Mysore"
+        }
+      ],
+      "answer": 1
+    }
+  ]

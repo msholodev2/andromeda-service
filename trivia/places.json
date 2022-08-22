@@ -1,0 +1,1152 @@
+[
+    {
+      "question_id": 0,
+      "question": "The Centre for Cellular and Molecular Biology is situated at",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Patna"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Jaipur"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Hyderabad"
+        },
+        {
+          "choice_id": 4,
+          "choice": "New Delhi"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 1,
+      "question": "Where is the Railway Staff College located?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Pune"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Allahabad"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Vadodara"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Delhi"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 2,
+      "question": "The famous Dilwara Temples are situated in",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Uttar Pradesh"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Rajasthan"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Maharashtra"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Madhya Pradesh"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 3,
+      "question": "Wadia Institute of Himalayan Geology is located at",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Delhi"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Shimla"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Dehradun"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Kulu"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 4,
+      "question": "Bijapur is known for its",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "severe drought condition"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Gol Gumbaz"
+        },
+        {
+          "choice_id": 3,
+          "choice": "heavy rainfall"
+        },
+        {
+          "choice_id": 4,
+          "choice": "statue of Gomateswara"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 5,
+      "question": "The headquarters of the National Power Training institute is located in",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Pune"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Bhopal"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Faridabad"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Lucknow"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 6,
+      "question": "The Dr. Babasaheb Ambedkar Marathwada University is at which of the following places?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Aurangabad"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Nanded"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Parbhani"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Nagpur"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 7,
+      "question": "The Indian Institute of Science is located at",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Kerala"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Madras"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Bangalore"
+        },
+        {
+          "choice_id": 4,
+          "choice": "New Delhi"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 8,
+      "question": "\"Bagh\", a village in Gwalior is famous for",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Sculptures"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Architecture"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Cave Painting"
+        },
+        {
+          "choice_id": 4,
+          "choice": "All of the above"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 9,
+      "question": "Which city is known as \"Electronic City of India\"?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Mumbai"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Hyderabad"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Guragon"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Bangalore"
+        }
+      ],
+      "answer": 4
+    },
+    {
+      "question_id": 10,
+      "question": "Indian School of Mines is located in",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Dhanbad"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Asansol"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Tatanagar"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Rourkela"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 11,
+      "question": "Which of the following place is famous for its gigantic rock-cut statue of Buddha?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Bamiyan"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Borobudur"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Anuradhapuram"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Angor Vat"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 12,
+      "question": "Siachen is a",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "desert frontier zone between India and Pakistan"
+        },
+        {
+          "choice_id": 2,
+          "choice": "frontier zone between China and India"
+        },
+        {
+          "choice_id": 3,
+          "choice": "frontier zone between India and Myanmar"
+        },
+        {
+          "choice_id": 4,
+          "choice": "glacier frontier zone between India and Pakistan"
+        }
+      ],
+      "answer": 4
+    },
+    {
+      "question_id": 13,
+      "question": "Golden Temple is situated in",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "New Delhi"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Agra"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Amritsar"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Mumbai"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 14,
+      "question": "Where is the headquarters of Oil and Natural Gas Commission?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Dehradun"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Vadodara"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Digboi"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Mumbai"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 15,
+      "question": "\"Vijay Stambha\" is situated in",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Jaipur"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Agra"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Delhi"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Chittor"
+        }
+      ],
+      "answer": 4
+    },
+    {
+      "question_id": 16,
+      "question": "The \"Char Minar\" is in",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Ahmedabad"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Hyderabad"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Delhi"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Sikri"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 17,
+      "question": "Where is the National Institute of Virology situated?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Pune"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Delhi"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Kolkata"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Madras"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 18,
+      "question": "The \"satellite freight city\" is being developed near which of the following cities?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "New Delhi"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Orissa"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Gurgaon"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Kolkata"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 19,
+      "question": "Central Arid Zone Research Institute is located in",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Bihar"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Gujarat"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Rajasthan"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Madhya Pradesh"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 20,
+      "question": "National Institute of Nutrition is located in which of the following place?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Bangalore"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Kerala"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Gandhinagar"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Hyderabad"
+        }
+      ],
+      "answer": 4
+    },
+    {
+      "question_id": 21,
+      "question": "National Institute of Aeronautical Engineering is located at",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Dehradun"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Lucknow"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Bangalore"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Delhi"
+        }
+      ],
+      "answer": 4
+    },
+    {
+      "question_id": 22,
+      "question": "The world famous \"Khajuraho\" sculptures are located in",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Gujarat"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Madhya Pradesh"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Orissa"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Maharashtra"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 23,
+      "question": "\"Kandla\" is situated on the Gulf of Kachh is well known for which of the following?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Export Processing Zone"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Centre for Marine Food products"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Cutting and Polishing of diamonds"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Ship breaking industry"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 24,
+      "question": "National Police Academy is located at",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Bangalore"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Hyderabad"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Abu Road"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Dehradun"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 25,
+      "question": "National Archives is located at?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Calcutta"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Dehradun"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Bombay"
+        },
+        {
+          "choice_id": 4,
+          "choice": "New Delhi"
+        }
+      ],
+      "answer": 4
+    },
+    {
+      "question_id": 26,
+      "question": "Which is known as \"Garden City of India\"?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Trivandram"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Imphal"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Simla"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Bangalore"
+        }
+      ],
+      "answer": 4
+    },
+    {
+      "question_id": 27,
+      "question": "The Central Rice Research institute is located at",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Rajamundry"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Madra"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Cuttack"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Cochin"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 28,
+      "question": "Where is the \"National Remote Sensing Agency\" situated?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Shadnagar"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Bangalore"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Chennai"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Dehradun"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 29,
+      "question": "Badrinath is situated on the bank of river",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Ganga"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Yamuna"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Alaknanda"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Saraswathi"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 30,
+      "question": "Indian Cancer Research institute is located at",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "New Delhi"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Calcutta"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Chennai"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Mumbai"
+        }
+      ],
+      "answer": 4
+    },
+    {
+      "question_id": 31,
+      "question": "Central Drug Research Institute is located at",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Trissur"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Nagpur"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Mysore"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Lucknow"
+        }
+      ],
+      "answer": 4
+    },
+    {
+      "question_id": 32,
+      "question": "Ajanta-Ellora caves are situated near",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Ajmer"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Jaipur"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Patna"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Aurangabad"
+        }
+      ],
+      "answer": 4
+    },
+    {
+      "question_id": 33,
+      "question": "National School of Mines is located in ?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Dhanbad"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Kavalpur"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Udaipur"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Hyderabad"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 34,
+      "question": "Sun Temple is situated at?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Konark"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Bangalore"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Haridwar"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Kerala"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 35,
+      "question": "The \"Golconda Fort\" is in which state?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Telangana"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Uttar Pradesh"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Bihar"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Karnataka"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 36,
+      "question": "Under Mother Teresa\"s guidance, the Missionaries of Charit built near Asansol, a lep er  colony is called",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Peace City"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Sahara"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Shanti Nagar"
+        },
+        {
+          "choice_id": 4,
+          "choice": "SOS"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 37,
+      "question": "\"Kanchipuram\" is in which of the following states?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Andhra Pradesh"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Orissa"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Kerala"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Tamil Nadu"
+        }
+      ],
+      "answer": 4
+    },
+    {
+      "question_id": 38,
+      "question": "The famous Meenakshi temple is located in",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Bihar"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Madurai"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Madras"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Trichy"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 39,
+      "question": "\"Tin Bhiga\" lease by India to Bangladesh, was a part of",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "West Bengal"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Assam"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Meghalaya"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Tripura"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 40,
+      "question": "Vikram Sarabhai Space Centre is located at",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Pune"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Ahmedabad"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Sriharikota"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Thiruvananthapuram"
+        }
+      ],
+      "answer": 4
+    },
+    {
+      "question_id": 41,
+      "question": "\"Mandi House\" is a",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "the office of the P.M."
+        },
+        {
+          "choice_id": 2,
+          "choice": "the office of Director General of Doordarshan"
+        },
+        {
+          "choice_id": 3,
+          "choice": "the office of NFDC"
+        },
+        {
+          "choice_id": 4,
+          "choice": "the Doordarshan C.P.C"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 42,
+      "question": "The National Institute of Community Development is located at",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Chennai"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Pant Nagar"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Hyderabad"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Bangalore"
+        }
+      ],
+      "answer": 3
+    },
+    {
+      "question_id": 43,
+      "question": "The famous Rock Garden is located in which city?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Jaipur"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Lucknow"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Simla"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Chandigarh"
+        }
+      ],
+      "answer": 4
+    },
+    {
+      "question_id": 44,
+      "question": "Sanchi Stupa is located near",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Gaya"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Bhopal"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Varanasi"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Bijapur"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 45,
+      "question": "National Science Centre is located at",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Bangalore"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Bombay"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Kolkata"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Delhi"
+        }
+      ],
+      "answer": 4
+    },
+    {
+      "question_id": 46,
+      "question": "Central Road Research Institute is in",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Delhi"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Bangalore"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Roorkee"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Hyderabad"
+        }
+      ],
+      "answer": 1
+    },
+    {
+      "question_id": 47,
+      "question": "The world famous Ajanta caves are situated in",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Orissa"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Andhra Pradesh"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Kerala"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Maharashtra"
+        }
+      ],
+      "answer": 4
+    },
+    {
+      "question_id": 48,
+      "question": "Where is Chitrakut situated?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Maharashtra"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Uttar Pradesh"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Bihar"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Madhya Pradesh"
+        }
+      ],
+      "answer": 2
+    },
+    {
+      "question_id": 49,
+      "question": "Which city is called \"White City\" of Rajasthan?",
+      "options": [
+        {
+          "choice_id": 1,
+          "choice": "Bihar"
+        },
+        {
+          "choice_id": 2,
+          "choice": "Jaipur"
+        },
+        {
+          "choice_id": 3,
+          "choice": "Udaipur"
+        },
+        {
+          "choice_id": 4,
+          "choice": "Jodhpur"
+        }
+      ],
+      "answer": 3
+    }
+  ]
