@@ -1,26 +1,26 @@
 [
   {
-    "category": "World",
+    "category": "geography",
     "version": 1
   },
   {
-    "category": "Asia",
+    "category": "history",
     "version": 1
   },
   {
-    "category": "Europe",
+    "category": "economics",
     "version": 1
   },
   {
-    "category": "NorthAmerica",
+    "category": "culture",
     "version": 1
   },
   {
-    "category": "SouthAmerica",
+    "category": "politics",
     "version": 1
   },
   {
-    "category": "Africa",
+    "category": "places",
     "version": 1
   }
 ]
